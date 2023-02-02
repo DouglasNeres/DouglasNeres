@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasNeres&layout=compact&hide_border=false&theme=vision-friendly-dark" />
 </div><br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=DouglasNeres&theme=merko&hide_border=true&area=true)
-
 ## 📞 &nbsp;Contact
 <div> 
   <a href="https://www.instagram.com/douglas_neres__/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
