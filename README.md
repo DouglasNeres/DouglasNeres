@@ -2,11 +2,6 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0FF42&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Douglas+Neres;I'm+17+years+old;I+from+Brazil,+Crateús,+CE;I+study+Computing+at+the,+Vocacional+School;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasNeres&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" alt="Douglas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasNeres&layout=compact&hide_border=false&theme=vision-friendly-dark" />
-</div><br>
-
 ## 📞 &nbsp;Contact
 <div> 
   <a href="https://www.instagram.com/douglas_neres__/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
